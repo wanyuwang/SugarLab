@@ -7,4 +7,4 @@
  1. Product research analysis and interview record
  2. Code development
  
- Here is the demo of our application. Hope you like it :)
+ Here is the demo of our process. Hope you like it :)
