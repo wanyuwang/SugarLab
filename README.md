@@ -2,6 +2,8 @@
 
  This is an Android Application, which can share, discover and buy desserts.
  
+ Video: https://www.youtube.com/watch?v=fpGcNOB9_W4&t=4s
+ 
  The files contains two parts:
  
  1. Product research analysis and interview record
